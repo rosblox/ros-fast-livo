@@ -1,0 +1,12 @@
+[submodule "FAST-LIVO"]
+	path = FAST-LIVO
+	url = https://github.com/rosblox/FAST-LIVO.git
+[submodule "Sophus"]
+	path = Sophus
+	url = https://github.com/rosblox/Sophus.git
+[submodule "rpg_vikit"]
+	path = rpg_vikit
+	url = https://github.com/rosblox/rpg_vikit.git
+[submodule "livox_ros_driver"]
+	path = livox_ros_driver
+	url = https://github.com/rosblox/livox_ros_driver.git
